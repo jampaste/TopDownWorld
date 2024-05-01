@@ -32,7 +32,7 @@ class TinyTown extends Phaser.Scene {
         this.treeLayer.setScale(4.0);
         this.lastLayer.setScale(4.0);
 
-        document.getElementById('description').innerHTML = '<h2>Welcome to Bomb Town!</h2>'
+        document.getElementById('description').innerHTML = '<h2>Welcome to Nitro Farm!</h2>'
 
 
     }
